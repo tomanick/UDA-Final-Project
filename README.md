@@ -21,7 +21,7 @@ The dataset comprises six novels by Charles Dickens, sourced from [Project Guten
 
 ## Code
 
-The analysis is conducted in a Jupyter Notebook ([UDA_FinalProject_Liu.ipynb](UDA_FinalProject_Liu.ipynb)). This notebook includes all the code and visualizations created during the analysis.
+The analysis is conducted in a Jupyter Notebook ([UDA_FinalProject_Liu.ipynb](UDA_FinalProject_Liu.ipynb)). This notebook includes all the code and visualizations created during the analysis. In addition, I run the code on my laptop.
 
 ## License
 
